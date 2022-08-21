@@ -1,12 +1,12 @@
 export default {
   global: {
     componenteFormativo:
-      'Componente Formativo con un nombre extremadamente largo y extenso',
+      'Control Formativo con un nombre extremadamente largo y extenso',
     descripcionCurso:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius.<br/><br/>Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
+      'El contenido de este componente ayudará a reconocer el tabaquismo como un problema de salud pública, identificando los diferentes productos del tabaco y sus efectos en la salud. Adicionalmente, se examinará el marco político y normativo vigente para el control del tabaco y se describirá el papel que cumplen los profesionales de la salud en el control del tabaquismo. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
+    /*imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/banner-principal-decorativo-1.svg'),
@@ -15,7 +15,7 @@ export default {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/banner-principal-decorativo-2.svg'),
       },
-    ],
+    ],*/
   },
   menuPrincipal: {
     menu: [
